@@ -1,0 +1,7 @@
+__pycache__
+AI_FlaskServer.egg-info
+/dist/AI_FlaskServer-0.1-py3.10.egg
+env/
+.wsgi
+.bat
+.cmd
