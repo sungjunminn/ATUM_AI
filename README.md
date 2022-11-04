@@ -1,4 +1,4 @@
-# AI_FlaskServer
+# ATUM_AI
 ---------------
 
 ## Project 목적
